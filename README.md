@@ -1,2 +1,2 @@
 
-unfinished design patterns
+rough design patterns
