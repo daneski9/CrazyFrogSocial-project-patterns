@@ -1,2 +1,2 @@
 
-rough design patterns
+rough design patterns - ugly commit messages! 
